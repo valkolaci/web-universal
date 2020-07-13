@@ -1,5 +1,6 @@
-weight: 2
-name: "Red hat premier solution provider"
-icon: "fas fa-print"
+weight: 3
+name: "Red Hat premier solution provider"
+image: "img/Logo-Red_Hat-Premier_Bus_Partner-A-Standard-RGB.svg"
+width: "50%"
 url: ""
 description: "Origoss Solutions is a Red Hat Premier Business Partner with Cloud Infrastructure / PaaS and Cloud Automation specializations. We work with OpenShift and Ansible to build comprehensive enterprise-grade solutions."

@@ -1,5 +1,6 @@
-weight: 6
+weight: 5
 name: "Contributing to open source software"
-icon: "fas fa-user"
+image: "img/github.svg"
+width: "50%"
 url: ""
 description: "Origoss Solutions is a contributor to several open source projects. We also have our own open source solution, the eBPF based Linux system monitoring tool with a Prometheus exporter."

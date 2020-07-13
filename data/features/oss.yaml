@@ -1,5 +1,6 @@
-weight: 5
+weight: 2
 name: "Operation support & management"
-icon: "far fa-envelope"
+image: "img/prometheus_logo_orange_circle.svg"
+width: "50%"
 url: ""
 description: "Modernize your legacy operations support systems with us (performance monitoring, fault and log management, reporting). Origoss Solutions integrates state-of-the-art Cloud Native solutions into typical legacy Enterprise environments."

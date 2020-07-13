@@ -1,5 +1,6 @@
-weight: 3
+weight: 4
 name: "Cloud native support and training"
-icon: "fas fa-globe"
+image: "img/kubernetes-icon-color.svg"
+width: "50%"
 url: ""
 description: "We provide professional support services for Enterprise customers. We help them to use their Cloud Native software components and solutions. We also deliver training courses on this technology."
